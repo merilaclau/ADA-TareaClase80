@@ -1,0 +1,15 @@
+.main {
+    background-color: powderblue;
+    height: calc(100vh - 100px);
+    width: calc(100vw - 300px);
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    article {
+        margin: 0 !important;
+    }
+    img {
+        width: 100%;
+    }
+    
+}
